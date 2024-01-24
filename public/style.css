@@ -1,0 +1,14 @@
+div{
+    background-color: rgb(180, 180, 159);
+    text-align: center;
+}
+
+h1{
+    color: green;
+    text-align: center;
+}
+
+div .heading{
+    color: red;
+    font-style: italic;
+}
